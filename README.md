@@ -37,7 +37,7 @@ data
 ## Training and Evaluation
 
 ```shell
-python main.py
+python train.py
 ```
 
 Later, we will upload our trained model, and you can load the model directly without training.
