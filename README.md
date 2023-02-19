@@ -1,4 +1,5 @@
 # Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification
+[Paper](https://ieeexplore.ieee.org/document/10047982)
 
 ## Pipeline
 
@@ -46,3 +47,17 @@ Later, we will upload our trained model([download](https://drive.google.com/file
 ## Contact
 
 If you have any questions, please feel free to contact me. ( liuminghui_1997@163.com ).
+
+
+## Cite
+
+@ARTICLE{10047982,
+  author={Li, Huafeng and Liu, Minghui and Hu, Zhanxuan and Nie, Feiping and Yu, Zhengtao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3246091}}
+
