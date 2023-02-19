@@ -51,6 +51,7 @@ If you have any questions, please feel free to contact me. ( liuminghui_1997@163
 
 ## Cite
 
+```
 @ARTICLE{10047982,
   author={Li, Huafeng and Liu, Minghui and Hu, Zhanxuan and Nie, Feiping and Yu, Zhengtao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
@@ -60,4 +61,5 @@ If you have any questions, please feel free to contact me. ( liuminghui_1997@163
   number={},
   pages={1-1},
   doi={10.1109/TCSVT.2023.3246091}}
+```
 
