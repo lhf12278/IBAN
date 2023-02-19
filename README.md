@@ -2,7 +2,7 @@
 
 ## Pipeline
 
-![framework](./1.pdf)
+![framework](./1.png)
 
 
 ## Requirements
