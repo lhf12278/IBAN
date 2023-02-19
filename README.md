@@ -40,7 +40,7 @@ data
 python train.py
 ```
 
-Later, we will upload our trained model, and you can load the model directly without training.
+Later, we will upload our trained model([download](https://drive.google.com/file/d/1DaMfPMzvW2kO6YhxCBahLma0dtPO4CZG/view?usp=share_link)), and you can load the model directly without training.
 
 
 ## Contact
